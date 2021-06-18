@@ -1,4 +1,4 @@
-# Table of contents
+# Summary
 
 * [SeduhApp](README.md)
 * [Perintah Git](perintah-git.md)
