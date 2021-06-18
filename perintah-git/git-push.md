@@ -31,11 +31,5 @@ git rebase -i origin/main
 git push origin main
 ```
 
-
-
-
-
 sumber: [Atlassian Git Tutorial](https://www.atlassian.com/git/tutorials/syncing/git-push)
-
-
 
