@@ -11,7 +11,8 @@ Link cepat: [Gitbook Login](https://app.gitbook.com/@eymankun/spaces)
 | `1` [SeduhApp](https://eymankun.gitbook.io/seduhapp/) |
 | `2` [Kandungan](kandungan.md#kandungan) |
 | `3` [Perintah Git](perintah-git/) |
-| `3.1` [git push](perintah-git/git-push.md) |
-| `3.2` [git pull](perintah-git/git-pull.md) |
+| `3.1` [Berkenaan Push dan Pull](perintah-git/git-push.md) |
 | `4` [Portfolio, Projects, Tools, Toys](portfolio-projects-tools-toys.md) |
+
+
 
