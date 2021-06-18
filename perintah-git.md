@@ -1,7 +1,3 @@
----
-description: List of git command
----
-
 # Perintah Git
 
 ## Perintah Git Asas
