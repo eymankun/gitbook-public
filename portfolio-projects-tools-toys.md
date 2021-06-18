@@ -2,15 +2,9 @@
 
 ## Portfolio
 
-
-
 ## Projects
 
-
-
 ## Tools
-
-
 
 ## Toys
 
