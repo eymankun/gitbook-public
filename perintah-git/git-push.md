@@ -7,12 +7,12 @@ git push: untuk muat naik lokal repo ke remote repo
 cara untuk guna git push untuk push lokal repo ke remote repo
 
 ```bash
-git push <remote> <branch>
+git push <remote-name> <branch-name>
 ```
 
-&lt;remote&gt; - nama remote repo. biasanya nama 'origin' yang digunakan
+`<remote-name>` - nama remote repo. biasanya nama 'origin' yang digunakan
 
-&lt;branch&gt; - nama branch yang mahu dimuat naik
+`<branch-name>` - nama branch yang mahu dimuat naik
 
 ## contoh arahan git push
 
