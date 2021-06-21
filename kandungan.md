@@ -13,5 +13,6 @@ Link cepat: [Gitbook Login](https://app.gitbook.com/@eymankun/spaces)
 | `3` [Perintah Git](perintah-git/) |
 | `3.1` [git push](perintah-git/git-push.md) |
 | `3.2` [git pull](perintah-git/git-pull.md) |
+| `3.3` [git cheatsheet](perintah-git/git-cheatsheet.md) |
 | `4` [Portfolio, Projects, Tools, Toys](portfolio-projects-tools-toys.md) |
 
