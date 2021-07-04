@@ -16,4 +16,5 @@ Link cepat: [Gitbook Login](https://app.gitbook.com/@eymankun/spaces)
 | `4.2` [git pull](perintah-git/git-pull.md) |
 | `4.3` [git cheatsheet](perintah-git/git-cheatsheet.md) |
 | `5` [Binaan MCV](pembangunan-aplikasi/binaan-mvc.md) |
+| `6` [Sorokkan Kunci API](pembangunan-aplikasi/sorokkan-kunci-api.md) |
 
