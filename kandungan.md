@@ -17,4 +17,5 @@ Link cepat: [Gitbook Login](https://app.gitbook.com/@eymankun/spaces)
 | `4.3` [git cheatsheet](perintah-git/git-cheatsheet.md) |
 | `5` [Binaan MCV](pembangunan-aplikasi/binaan-mvc.md) |
 | `6` [Sorokkan Kunci API](pembangunan-aplikasi/sorokkan-kunci-api.md) |
+| `7` [Networking dalam Swift](pembangunan-aplikasi/networking-dalam-swift.md) |
 
