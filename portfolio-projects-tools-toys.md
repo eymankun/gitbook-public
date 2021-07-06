@@ -14,5 +14,7 @@
 
 [Awesome Json Viewer](https://awesomeopensource.com/project/rbrahul/Awesome-JSON-Viewer)
 
+.[gitignore Generator](https://www.toptal.com/developers/gitignore)
+
 ## Toys
 
