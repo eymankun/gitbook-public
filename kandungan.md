@@ -18,4 +18,5 @@ Link cepat: [Gitbook Login](https://app.gitbook.com/@eymankun/spaces)
 | `5` [Binaan MCV](pembangunan-aplikasi/binaan-mvc.md) |
 | `6` [Sorokkan Kunci API](pembangunan-aplikasi/sorokkan-kunci-api.md) |
 | `7` [Networking dalam Swift](pembangunan-aplikasi/networking-dalam-swift.md) |
+| `8` [Delegate](pembangunan-aplikasi/delegate.md) |
 
