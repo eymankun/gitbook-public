@@ -6,17 +6,24 @@ Link cepat: [Gitbook Login](https://app.gitbook.com/@eymankun/spaces)
 
 ## Kandungan
 
-| Tajuk |
+| Utama |
 | :--- |
 | `1` [SeduhApp](https://eymankun.gitbook.io/seduhapp/) |
 | `2` [Kandungan](kandungan.md#kandungan) |
 | `3` [Portfolio, Projects, Tools, Toys](portfolio-projects-tools-toys.md) |
-| `4` [Perintah Git](perintah-git/) |
-| `4.1` [git push](perintah-git/git-push.md) |
-| `4.2` [git pull](perintah-git/git-pull.md) |
-| `4.3` [git cheatsheet](perintah-git/git-cheatsheet.md) |
-| `5` [Binaan MCV](pembangunan-aplikasi/binaan-mvc.md) |
-| `6` [Sorokkan Kunci API](pembangunan-aplikasi/sorokkan-kunci-api.md) |
-| `7` [Networking dalam Swift](pembangunan-aplikasi/networking-dalam-swift.md) |
-| `8` [Delegate](pembangunan-aplikasi/delegate.md) |
+
+| Berkenaan Git |
+| :--- |
+| `1`  [Perintah Git](perintah-git/) |
+| `1.1` [git push](perintah-git/git-push.md) |
+| `1.2` [git pull](perintah-git/git-pull.md) |
+| `1.3` [git cheatsheet](perintah-git/git-cheatsheet.md) |
+
+| Pembangunan Aplikasi |
+| :--- |
+| `1` [Binaan MCV](pembangunan-aplikasi/binaan-mvc.md) |
+| `2` [Sorokkan Kunci API](pembangunan-aplikasi/sorokkan-kunci-api.md) |
+| `3` [Networking dalam Swift](pembangunan-aplikasi/networking-dalam-swift.md) |
+| `4` [Delegate](pembangunan-aplikasi/delegate.md) |
+| `5` [Pintasan XCode](pembangunan-aplikasi/pintasan-xcode.md) |
 
